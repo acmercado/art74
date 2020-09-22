@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee|Parisienne|Rammetto+One');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #ededed;
+	max-width: 100%;
+	padding-bottom: 20px;
+}
+
+div {
+	width: 150px;
+	height: 40px;
+	float: right;
+	padding-top: 5px;
+}
+
+.icons {
+	width: 35px;
+	height: 35px;
+}
+
+#instagram:hover {
+	width: 35px;
+	height: 35px;
+}
+
+#overwatch:hover {
+	width: 35px;
+	height: 35px;
+}
+
+#youtube:hover {
+	width: 35px;
+	height: 35px;
+}
+
+ul {
+	margin: 0 auto;
+	font-size: 18px;
+	width: 100%;
+	height: 50px;
+	background-color: #707070;
+	line-height: 50px
+}
+
+ul li {
+	display: inline-block;
+	text-align: center;
+	list-style-type: none;
+	margin: 0 auto;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-right: 50px;
+	padding-left: 75px;
+}
+
+ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+ul li a:hover {
+	color: black;
+	font-weight: none;
+}
+
+
+h1 {
+	border:	4px dashed #707070;
+	width: 400px;
+	margin: 20px auto;
+	text-align: center;
+	padding: 30px;
+	font-family: 'Parisienne', cursive;
+	font-size: 50px;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Rammetto One', cursive;
+	padding-bottom: 15px;
+}
+
+p {
+	text-align: center;
+	font-family: 'Handlee', none;
+	padding-bottom: 5px;
+}
+
+#guisketch {
+	border: none;
+	width: 100%;
+	height: 50vh;
+}
+
+.portfolio {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+h3 {
+	color: grey;
+	text-align: center;
+	font-family: 'Handlee', none;
+	padding-bottom: 10px;
+}
+
+h3 a {
+	color: grey;
+	text-align: center;
+	font-family: 'Handlee', none;
+}
+
+h3 a:hover {
+	color: black;
+	text-align: center;
+	font-family: 'Handlee', none;
+}
+
+#video_game {
+	padding-top: 10px;
+}
+
+#image_game {
+	padding-top: 10px;
+}
+
+#colortrailp5 {
+	border: none;
+	width: 100%;
+	height: 60vh;
+}
